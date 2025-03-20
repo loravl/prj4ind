@@ -60,10 +60,10 @@ body {
 }
 
 .proficiency {
-	background: #01796f;
+	background:#FAFAF4;
 }
-.proficiency-border{border: 1px solid #FAFAF4;
-	color:#FAFAF4;}
+.proficiency-border{border: 1px solid #01796f;
+	color:#01796f;}
 
 .aside-titles{
 color: #FAFAF4;
