@@ -10,7 +10,7 @@
 body {
 	font-family: "Lora", Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, serif;
 	color: #202030;
-	background-color: #f8f8fc;
+	background-color: #FAFAF4;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -29,7 +29,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #ff69b4;
+	background-color: #ffc0cb;
 	color: #FAFAF4;
 }
 
@@ -44,7 +44,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #ff69b4;
+	color: #ffc0cb;
 }
 
 .biography-details li, .skill-list li {
@@ -66,5 +66,8 @@ body {
 	color:#FAFAF4;}
 
 .aside-titles{
+color: #FAFAF4;
+}
+.end{background: #ffc0cb;
 color: #FAFAF4;
 }
