@@ -3,7 +3,7 @@
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
 
 /* Styles for the body */
 
@@ -20,6 +20,9 @@ body {
 	color: #FAFAF4; 
 }
 
+.resume-font{
+	font-family: "Source Sans 3", sans-serif;
+}
 .resume-main {
 	background-color: #FAFAF4;
 	color: #01796f;
@@ -61,6 +64,7 @@ body {
 }
 .proficiency-border{border: 1px solid #FAFAF4;
 	color:#FAFAF4;}
+
 .aside-titles{
 color: #FAFAF4;
 }
