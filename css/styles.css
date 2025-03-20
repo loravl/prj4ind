@@ -19,7 +19,7 @@ body {
     background-color: #01796F;
 	color: #FAFAF4; 
 }
-
+/* My own style for the header*/
 .resume-font{
 	font-family: "Source Sans 3", sans-serif;
 }
@@ -68,6 +68,21 @@ body {
 .aside-titles{
 color: #FAFAF4;
 }
+/*My own style for the footer*/
 .end{background: #ffc0cb;
 color: #FAFAF4;
+}
+/*My own style for oppened and unoppened link*/
+a:link {
+  color: #01796f;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #01796f;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:hover {
+  text-decoration: underline;
 }
